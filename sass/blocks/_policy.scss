@@ -1,0 +1,29 @@
+.policy{
+    padding-bottom: 48px;
+    font-weight: 500;
+    .container{
+        padding: 20px;
+        border: solid 2px #eee;;
+    }
+    &__header, &__paragraph, h3, &__descr {
+        margin-bottom: 25px;
+        padding: 0 15px;
+    }
+   h3{
+       font-size: 20px;
+       font-weight: 50;
+   }
+   &__descr{
+    font-size: 16px;
+   }
+   &__list{
+       margin-bottom: 16px;
+       padding-left: 50px;
+       font-size: 16px;
+       font-weight: 400;
+       li{
+           margin: 5px 0;
+           list-style-type: none;
+       }
+   }
+}
