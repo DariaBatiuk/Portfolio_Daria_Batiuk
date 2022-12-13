@@ -35,6 +35,16 @@ Screenshot of the project:
 ![image](https://user-images.githubusercontent.com/83068010/199572489-c7eb5daa-3642-45b6-acaa-26b29af1ab56.png)
 ![image](https://user-images.githubusercontent.com/83068010/199572538-6deb0682-0c7b-49fc-8875-9e5a2fd62276.png)
 
+I have created a portfolio to showcase my skills and projects. To achieve this, I implemented the following:
 
+BEM methodology
+Structured code that's easy to understand and easily scalable
 
+Sass
+Enabled me to break different components down into separate Sass files, with the potential to re-use elements in future projects.
 
+CSS Grid & Flexbox
+I created fluid layouts throughout the page with a mixture of Grid and Flexbox. The app is fully responsive on multiple screen widths.
+
+JavaScript
+I created functions to animate close buttons, hanburger menu button and counter elements on the page. 
